@@ -1,0 +1,39 @@
+ *{
+    margin left: auto;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+header {Background-color: blue;}
+    header {display: inline;
+            width: 100px;
+            height: 100px;
+            padding: 5px;
+            border: 1px solid blue;
+            background-color: yellow;
+            background-size: cover;
+            vertical-align: top;        
+        }
+    header {img src="logo.png;"
+            width: 23%;
+            padding: 1%;
+            text-align: center;
+            background: img src="logo.png;"}
+    body {Background-color: blue;
+        class "heroImg.":
+        height: 600px;
+        padding: 25px;
+        image: Frame 13.png;
+        width: 500px;
+        margin: 0px auto;}
+    footer {
+        background color: #373738;
+        padding: ul center;
+        padding: li center;
+    }
+    footer { class: ul;
+        display: inline-block;
+        vertical-align: bottom;
+        padding: li center;
+ 
+}
