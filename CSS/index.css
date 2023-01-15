@@ -15,16 +15,17 @@ header {Background-color: #FFEDE4;}
             vertical-align: top;        
         }
     header {img src="logo.png;"
-            width: 23%;
+            width: px;
+            height: 10px;
             padding: 1%;
             text-align: center;
             background: img src="logo.png;"}
     body {Background-color: #FFEDE4;
         class "heroImg.":
-        height: 600px;
-        padding: 25px;
+                padding: 25px;
         image: Frame 13.png;
         width: 500px;
+        height: 600px;
         margin: 0px auto;}
     footer {
         background color: #373738;
