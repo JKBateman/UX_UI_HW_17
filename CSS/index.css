@@ -4,7 +4,7 @@
     list-style: none;
     text-decoration: none;
 }
-header {Background-color: blue;}
+header {Background-color: #FFEDE4;}
     header {display: inline;
             width: 100px;
             height: 100px;
@@ -19,7 +19,7 @@ header {Background-color: blue;}
             padding: 1%;
             text-align: center;
             background: img src="logo.png;"}
-    body {Background-color: blue;
+    body {Background-color: #FFEDE4;
         class "heroImg.":
         height: 600px;
         padding: 25px;
