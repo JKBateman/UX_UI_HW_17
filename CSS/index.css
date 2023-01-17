@@ -4,19 +4,19 @@
     list-style: none;
     text-decoration: none;
 }
-header {Background-color: #FFEDE4;}
+header {Background-color: #545353;}
     header {display: inline;
             width: 100px;
             height: 100px;
             padding: 5px;
             border: 1px solid blue;
-            background-color: yellow;
+        
             background-size: cover;
             vertical-align: top;        
         }
     header {img src="logo.png;"
             width: px;
-            height: 10px;
+            height: 23px;
             padding: 1%;
             text-align: center;
             background: img src="logo.png;"}
@@ -32,7 +32,8 @@ header {Background-color: #FFEDE4;}
         padding: ul center;
         padding: li center;
     }
-    footer { class: ul;
+    footer {background-color: #545353; 
+        class: ul;
         display: inline-block;
         vertical-align: bottom;
         padding: li center;
