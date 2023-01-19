@@ -1,41 +1,47 @@
- *{
-    margin left: auto;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
+ * {
+     margin-left: auto;
+     padding: 0;
+     list-style: none;
+     text-decoration: none;
+ }
+
+ body {
+    Background-color: #FFEDE4;
+    padding: 25px;
+    width: 500px;
+    height: 600px;
+    margin: 0px auto;
 }
-header {Background-color: #545353;}
-    header {display: inline;
-            width: 100px;
-            height: 100px;
-            padding: 5px;
-            border: 1px solid blue;
-        
-            background-size: cover;
-            vertical-align: top;        
-        }
-    header {img src="logo.png;"
-            width: px;
-            height: 23px;
-            padding: 1%;
-            text-align: center;
-            background: img src="logo.png;"}
-    body {Background-color: #FFEDE4;
-        class "heroImg.":
-                padding: 25px;
-        image: Frame 13.png;
-        width: 500px;
-        height: 600px;
-        margin: 0px auto;}
-    footer {
-        background color: #373738;
-        padding: ul center;
-        padding: li center;
-    }
-    footer {background-color: #545353; 
-        class: ul;
-        display: inline-block;
-        vertical-align: bottom;
-        padding: li center;
  
+ header {
+     display: inline;
+     width: 100px;
+     height: 23px;
+     padding: 1%;
+         border: 1px solid blue;
+     Background-color: #545353;
+     background-size: cover;
+     vertical-align: top;
+     text-align: center;
+ }
+nav{
+
 }
+li{
+
+}
+  footer {
+     background-color: #545353;
+
+     display: inline-block;
+     vertical-align: bottom;
+
+    }
+ .logo{
+    width: 23%;
+    padding: 1%;
+ }
+ .inline-block{
+    display:inline-block;
+    vertical-align:top;
+ }
